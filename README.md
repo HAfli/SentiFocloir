@@ -6,3 +6,9 @@ Each word (or multi-word expression e.g. 'le do thoil') appears on a new line an
 Efforts were made to include as many different morphological forms of each term as possible, i.e. those modified by séimhiú (lenition) and urú (eclipsis).
 
 The lexicon also contains the most common forms of each verb that is included. Most verbs appear in the lexicon in the following tenses: past, past-passive, present, present (1st person), present-passive, future, future-passive. In future the lexicon may be extended to include other tenses such as conditional, subjunctive etc.
+
+Citation
+
+If you use this corpus, please cite the paper below.
+
+Haithem Afli, Sorcha McGuire, and Andy Way. Sentiment translation for low resourced languages: Experiments on irish general election tweets. In Proceedings of the 18th International Conference on Computational Lin- guistics and Intelligent Text Processing, Budapest, Hun- gary, 2017.
