@@ -11,4 +11,4 @@ Citation
 
 If you use this corpus, please cite the paper below.
 
-Haithem Afli, Sorcha McGuire, and Andy Way. Sentiment translation for low resourced languages: Experiments on irish general election tweets. In Proceedings of the 18th International Conference on Computational Lin- guistics and Intelligent Text Processing, Budapest, Hun- gary, 2017.
+Haithem Afli, Sorcha McGuire, and Andy Way. Sentiment translation for low resourced languages: Experiments on irish general election tweets. In Proceedings of the 18th International Conference on Computational Linguistics and Intelligent Text Processing, Budapest, Hungary, 2017.
